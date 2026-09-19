@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.pyc 
+
+# Jupyter checkpoints (autosave copies)
+.ipynb_checkpoints/
+
+#Editor and system files 
+.vscode/
+.DS_Store
