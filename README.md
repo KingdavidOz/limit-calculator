@@ -1,4 +1,4 @@
--My phd project objective is generating process inventories for biobased processes and finding optimal routes for producing bioproducts.
+-My phd project objective is generating process inventories for biobased processes and finding routes that give optimal yields, and perform equally well economically and environmentally).
 
 -One aspect of optimisation is determining the routes that give the best yield and I made a simple calculator for deriving this using just the degree of reduction and carbon content of the feedstock. 
 
