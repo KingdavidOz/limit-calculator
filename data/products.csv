@@ -1,4 +1,5 @@
-name, C, H, O, N 
-lactate, 3, 6, 3, 0 
-biomass, 1, 1.8, 0.5, 0.2 
-ethanol, 2, 6, 1, 0 
+name,C,H,O,N
+lactate,3,6,3,0
+biomass,1,1.8,0.5,0.2
+PHB,4,6,2,0
+ethanol,2,6,1,0
