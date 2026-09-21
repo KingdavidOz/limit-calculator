@@ -11,6 +11,10 @@ glucose,lactate,1.0
 glucose,biomass,0.952
 glucose,PHB,0.889
 glucose,ethanol,0.667
+xylose,lactate,1.0
+xylose,biomass,0.952
+xylose,PHB,0.889
+xylose,ethanol,0.667
 glycerol,lactate,1.0
 glycerol,biomass,1.0
 glycerol,PHB,1.0
